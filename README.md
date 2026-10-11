@@ -4,8 +4,8 @@ Task Manager is a web application built with Python and Django that allows users
 
 To run the application, execute:
 
-python manage.py migrate
-python manage.py runserver
+- python manage.py migrate
+- python manage.py runserver
 
 Open http://127.0.0.1:8000/ in your browser.
 
